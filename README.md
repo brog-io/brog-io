@@ -2,7 +2,7 @@
 
 
 
-About Me
+#About Me
 Hello! I'm Brogio, a computer science student from Belgium. I am passionate about privacy and tech, and I enjoy working on projects related to privacy.
 
 🌱 I’m currently learning CSS, JS and C#.
