@@ -1,6 +1,6 @@
 # Hi, I'm Brogio 👋
 
-![Banner](https://github.com/user-attachments/assets/0f10d0bd-8354-4f4d-a065-cc04be429be3)
+![Banner](https://github.com/user-attachments/assets/390f2304-90e1-4073-a2e4-404ee446cf4f)
 
 I’m an 18-year-old computer science student passionate about open-source software, security, automation, and privacy.  
 I love building things that make life (and code) simpler, safer, and a little bit cooler.
