@@ -1,12 +1,21 @@
-# Hi there, I'm Brogio 👋
+# Hi, I'm Brogio 👋
 
+I’m an 18-year-old computer science student passionate about open-source software, security, automation, and privacy.  
+I love building things that make life (and code) simpler, safer, and a little bit cooler.
 
+## 🚀 What I do
+- **Open Source**: Contributor, maintainer, and advocate. I believe good software should be for everyone.
+- **Security**: Always curious about new exploits, vulnerabilities, and how to make systems more robust.
+- **Automation**: From Discord bots to CI/CD pipelines, I like letting code do the boring stuff.
+- **Privacy**: Committed to keeping users' data safe and respecting digital rights.
 
-## About Me
-Hello! I'm Brogio, a computer science student from Belgium. I am passionate about privacy and tech, and I enjoy working on projects related to privacy.
+## 👨‍💻 Tech I Like
+- **Languages**: Python, C#, PHP
+- **DevOps/Infra**: GitHub Actions, Cloudflare Workers, Linux
 
-- 🌱 I’m currently learning CSS, JS and C#. 
-- 📫 How to reach me: contact@brog.io
+## 🌱 Currently
+- Studying for my bachelor's in Computer Science
+- Always tinkering with new projects (most are FOSS!)
+- Learning more about cybersecurity, privacy, and ethical hacking
 
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=brog-io&show_icons=true&theme=radical)
+---
