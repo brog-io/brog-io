@@ -1,7 +1,7 @@
 # Hi, I'm Brogio 👋
 
-I’m an 18-year-old computer science student passionate about open-source software, security, automation, and privacy.  
-I love building things that make life (and code) simpler, safer, and a little bit cooler.
+I’m an 19 year old computer science student passionate about open-source software, security, automation, and privacy.  
+I love building things that make life simpler, safer, and a little bit cooler.
 
 ## 🚀 What I do
 - **Open Source**: Contributor, maintainer, and advocate. I believe good software should be for everyone.
