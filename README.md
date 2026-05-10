@@ -10,12 +10,15 @@ I love building things that make life simpler, safer, and a little bit cooler.
 - **Privacy**: Committed to keeping users' data safe and respecting digital rights.
 
 ## 👨‍💻 Tech I Like
-- **Languages**: Python, C#, PHP
+- **Languages**: Python, C#, Java,PHP
 - **DevOps/Infra**: GitHub Actions, Cloudflare Workers, Linux
 
 ## 🌱 Currently
 - Studying for my bachelor's in Computer Science
 - Always tinkering with new projects (most are FOSS!)
 - Learning more about cybersecurity, privacy, and ethical hacking
+
+## Favorite FOSS
+[<img width="88" height="31" alt="ente" src="https://github.com/user-attachments/assets/c74e0b59-fc5c-4e2a-84f6-63822b05b8b5" />](https://ente.com/)
 
 ---
