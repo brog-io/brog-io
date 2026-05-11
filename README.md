@@ -23,5 +23,7 @@ I love building things that make life simpler, safer, and a little bit cooler.
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Trade-Off Between Privacy and Convenience in the Online World](https://brog.io/privacy/2025/07/21/the-trade-off-between-privacy-and-convenience-in-the-online-world.html)
+- [Welcome to My Blog](https://brog.io/introduction/2024/09/17/welcome-to-my-blog.html)
 <!-- BLOG-POST-LIST:END -->
 ---
