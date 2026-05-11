@@ -21,4 +21,7 @@ I love building things that make life simpler, safer, and a little bit cooler.
 ## ▸ Favorite FOSS
 [<img width="88" height="31" alt="ente" src="https://github.com/user-attachments/assets/c74e0b59-fc5c-4e2a-84f6-63822b05b8b5" />](https://ente.com/)
 
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 ---
